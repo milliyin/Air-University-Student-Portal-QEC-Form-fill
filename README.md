@@ -1,4 +1,4 @@
-# Air-University-Student-Portal-QEC-Form-fill
+# Air University Student Portal QEC Form fill
 its a python script to fill your air university QEC forms
 - auto fill qec online learning feedback forms
 - auto fill qec student course forms
